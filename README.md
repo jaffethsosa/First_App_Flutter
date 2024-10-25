@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # first_app_flutter
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# First_App_Flutter
+Aplicación Móvil Desarrollada en Flutter y Dart  Este repositorio contiene una aplicación móvil construida con Flutter y Dart. La aplicación ofrece una interfaz de usuario moderna y fluida, y está diseñada para proporcionar una experiencia de usuario intuitiva.
+>>>>>>> 7cdbb15f93f13abb7f663baa8bc128761a1112a7
