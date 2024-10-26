@@ -1,21 +1,21 @@
-<<<<<<< HEAD
-# first_app_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # First_App_Flutter
-Aplicación Móvil Desarrollada en Flutter y Dart  Este repositorio contiene una aplicación móvil construida con Flutter y Dart. La aplicación ofrece una interfaz de usuario moderna y fluida, y está diseñada para proporcionar una experiencia de usuario intuitiva.
->>>>>>> 7cdbb15f93f13abb7f663baa8bc128761a1112a7
+
+## Descripción
+
+**First_App_Flutter** es una aplicación móvil desarrollada con **Flutter** y **Dart**, diseñada para ofrecer una interfaz de usuario moderna y fluida. Esta aplicación está orientada a proporcionar una experiencia de usuario intuitiva y atractiva, ideal tanto para principiantes como para usuarios experimentados.
+
+## Características
+
+- **Interfaz de usuario atractiva**: Disfruta de una experiencia visual envolvente con un diseño moderno y responsivo.
+- **Funcionalidad intuitiva**: Navegación fácil y acceso rápido a todas las secciones de la aplicación.
+- **Soporte multiplataforma**: Funciona en dispositivos iOS y Android, brindando una experiencia consistente en ambas plataformas.
+- **Desarrollo rápido**: Aprovecha la velocidad y eficiencia de Flutter para iterar y lanzar nuevas funciones.
+
+## Comenzando
+
+Para empezar a trabajar con esta aplicación, sigue estos pasos:
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/tu_usuario/first_app_flutter.git
+
