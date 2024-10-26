@@ -17,5 +17,5 @@ Para empezar a trabajar con esta aplicación, sigue estos pasos:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/first_app_flutter.git
+   git clone https://github.com/jaffethsosa/First_App_Flutter
 
